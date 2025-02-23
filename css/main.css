@@ -128,7 +128,7 @@ header {
 
 /* banner */
 .banner-section {
-    background: url(/img/banner.jpg) 50% 30%/cover no-repeat;
+    background: url(../img/banner.jpg) 50% 30%/cover no-repeat;
     padding: 170px 0 195px;
 }
 
@@ -184,7 +184,7 @@ header {
     border: 2px solid var(--primary-text-color);
     border-radius: 50%;
     transform: translateX(-50%);
-    background: url(/img/play-btn.svg) 50%/14px 18px no-repeat;
+    background: url(../img/play-btn.svg) 50%/14px 18px no-repeat;
 }
 
 .banner-play-btn:hover {
@@ -558,7 +558,7 @@ header {
 
 .reservation_map {
     width: 50%;
-    background: url(/img/map.png) 50% 0%/cover no-repeat;
+    background: url(../img/map.png) 50% 0%/cover no-repeat;
 
 }
 
